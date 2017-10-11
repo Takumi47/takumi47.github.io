@@ -7,6 +7,12 @@
         "paths": [
           "/*"
         ]
+      },
+      {
+        "appID": "LYACV9QX9Y.com.wfe.LeKey-Home",
+        "paths": [
+          "/*"
+        ]
       }
     ]
   }
