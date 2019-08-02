@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "LYACV9QX9Y.com.wfe.UniversalLinkTest",
+        "appID": "NCGTM97MB7.com.xander.try.UniversalLinkTry",
         "paths": [
-          "/*"
+          "/test/*"
         ]
       }
     ]
