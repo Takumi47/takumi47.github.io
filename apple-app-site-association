@@ -7,6 +7,12 @@
         "paths": [
           "/test/*"
         ]
+      },
+      {
+        "appID": "LYACV9QX9Y.com.wfe.LiveAMHotel",
+        "paths": [
+          "/Order/wfe?"
+        ]
       }
     ]
   }
