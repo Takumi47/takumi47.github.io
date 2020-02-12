@@ -11,7 +11,7 @@
       {
         "appID": "LYACV9QX9Y.com.wfe.LiveAMHotel",
         "paths": [
-          "/LiveAMPage/wfe?", "/LiveAMPage/good/*"
+          "/LiveAMPage/wfe?*", "/LiveAMPage/good/*"
         ]
       }
     ]
